@@ -1,0 +1,142 @@
+[
+    {
+      "fecha": "30-03-23",
+      "evento": "Actividad de \"trabajo traquelado\" en clase para ayudar a los niños a desarrollar su motricidad fina.",
+      "informacion_adicional": "Actividad enfocada en la motricidad fina y en el fortalecimiento de las manos. Se solicita enviar los materiales necesarios para trabajar en clase.",
+      "etiquetas": [
+        {
+          "nombre": "#MotricidadFina",
+          "color": "#E67E22",
+          "emoji": "🖐️"
+        },
+        {
+          "nombre": "#ActividadEscolar",
+          "color": "#3498DB",
+          "emoji": "🏫"
+        },
+        {
+          "nombre": "#JardinInfantil",
+          "color": "#27AE60",
+          "emoji": "👶"
+        },
+        {
+          "nombre": "#Importante",
+          "color": "#E74C3C",
+          "emoji": "❗"
+        },
+        {
+          "nombre": "#Urgente",
+          "color": "#FFC300",
+          "emoji": "🚨"
+        }
+      ]
+    },
+    {
+      "fecha": "30-03-23",
+      "evento": "Recordatorio de enviar los materiales necesarios para trabajar en clase.",
+      "informacion_adicional": "Se solicita enviar los materiales necesarios para que los niños puedan trabajar en clase.",
+      "etiquetas": [
+        {
+          "nombre": "#Recordatorio",
+          "color": "#9B59B6",
+          "emoji": "🔔"
+        },
+        {
+          "nombre": "#ActividadEscolar",
+          "color": "#3498DB",
+          "emoji": "🏫"
+        },
+        {
+          "nombre": "#JardinInfantil",
+          "color": "#27AE60",
+          "emoji": "👶"
+        },
+        {
+          "nombre": "#Importante",
+          "color": "#E74C3C",
+          "emoji": "❗"
+        }
+      ]
+    },
+    {
+      "fecha": "30-03-23",
+      "evento": "Reunión de apoderados a las 17:00. Los niños deben retirarse a las 16:30.",
+      "informacion_adicional": "Reunión informativa con los apoderados del jardín de infantes. Los niños deben retirarse a las 16:30.",
+      "etiquetas": [
+        {
+          "nombre": "#ReuniónDeApoderados",
+          "color": "#8E44AD",
+          "emoji": "🤝"
+        },
+        {
+          "nombre": "#JardinInfantil",
+          "color": "#27AE60",
+          "emoji": "👶"
+        },
+        {
+          "nombre": "#Importante",
+          "color": "#E74C3C",
+          "emoji": "❗"
+        },
+        {
+          "nombre": "#Urgente",
+          "color": "#FFC300",
+          "emoji": "🚨"
+        }
+      ]
+    },
+    {
+      "fecha": "31-03-23",
+      "evento": "Actividad de la próxima semana sobre la unidad de \"familia\". Se debe enviar una foto de la familia.",
+      "informacion_adicional": "Se solicita enviar una foto de la familia para trabajar la unidad de 'familia' la próxima semana. Solo se necesitan los integrantes que viven en casa y se pide que sea de manera llamativa. Se enviarán imágenes de referencia.",
+      "etiquetas": [
+        {
+          "nombre": "#ActividadEscolar",
+          "color": "#3498DB",
+          "emoji": "🏫"
+        },
+        {
+          "nombre": "#JardinInfantil",
+          "color": "#27AE60",
+          "emoji": "👶"
+        },
+        {
+          "nombre": "#UnidadFamilia",
+          "color": "#F1C40F",
+          "emoji": "👨‍👩‍👧‍👦"
+        },
+        {
+          "nombre": "#Importante",
+          "color": "#E74C3C",
+          "emoji": "❗"
+        }
+      ]
+    },
+    {
+      "fecha": "31-03-23",
+      "evento": "Anuncio de concurso de asistencia a clases del ministerio de educación.",
+      "informacion_adicional": "Anuncio de concurso de asistencia a clases del ministerio de educación. Se debe enviar a los niños para participar.",
+      "etiquetas": [
+        {
+          "nombre": "#ConcursoAsistencia",
+          "color": "#27AE60",
+          "emoji": "🎉"
+        },
+        {
+          "nombre": "#ActividadEscolar",
+          "color": "#3498DB",
+          "emoji": "🏫"
+        },
+        {
+          "nombre": "#JardinInfantil",
+          "color": "#27AE60",
+          "emoji": "👶"
+        },
+        {
+          "nombre": "#Importante",
+          "color": "#E74C3C",
+          "emoji": "❗"
+        }
+      ]
+    }
+  ]
