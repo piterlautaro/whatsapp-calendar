@@ -1,6 +1,6 @@
 <template>
   <div class="container mx-auto p-4">
-    <h1 class="text-2xl font-bold mb-4">Calendario de eventos</h1>
+    <h1 class="text-2xl font-bold mb-4">Agenda</h1>
     <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
       <div v-for="(evento, index) in eventos" :key="index" class="bg-white rounded-lg shadow p-4">
         <div class="flex items-center mb-2">
